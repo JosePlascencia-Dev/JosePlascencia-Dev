@@ -1,5 +1,5 @@
 <div align="center" width="1000">
-  <img src="[https://capsule-render.vercel.app/api?color=0:ff0000,50:ff7c00,100:ffd500&height=250&section=header&text=Jose%20Plascencia%20(Developer)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff0000,50:ff7c00,100:ffd500&text=Jose%20Plascencia%20(Dev)&reversal=false&section=header&animation=fadeIn&fontColor=fefefe&fontSize=50&fontAlignY=91&descAlign=50&stroke=fbff00)"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff0000,50:ff7c00,100:ffd500&text=Jose%20Plascencia%20(Dev)&reversal=false&section=header&animation=fadeIn&fontColor=fefefe&fontSize=50&fontAlignY=91&descAlign=50&stroke=fbff00"
   alt="header"/>
 </div>
 <h1>Skills</h1>
