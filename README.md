@@ -98,3 +98,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=JosePlascencia-Dev&show_icons=true&theme=dark&hide_border=true" alt="" />
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosePlascencia-Dev&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+<p align="center">
+  <img src="https://github.com/JosePlascencia-Dev/JosePlascencia-Dev/blob/main/github-user-contribution.svg" alt="snake">
+</p>
