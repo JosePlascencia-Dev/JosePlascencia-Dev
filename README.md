@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff0000,50:ff7c00,100:ffd500&text=Jose%20Plascencia%20(Dev)&reversal=false&section=header&animation=fadeIn&fontColor=fefefe&fontSize=50&fontAlignY=91&descAlign=50"
   alt="header"/>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b style="">Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <h2>Languages</h2>
 <h2>Frameworks</h2>
 <h2>Objetivos</h2>
@@ -17,17 +16,3 @@
 <h1>About me</h1>
 <h2>Contacto</h2>
 <h2>Perfil Universitario</h2>
-<!--
-**JosePlascencia-Dev/JosePlascencia-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
