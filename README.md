@@ -3,17 +3,20 @@
   alt="header"/>
 </div>
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
-<div align="center">
-	<h2>Languages</h2>
-	<h2>Frameworks</h2>
-	<h2>Objetivos</h2>
-	<h2>Aprendizaje constante</h2>
-	<p align="center">
-		<a href="https://github.com/Bouaskaoun">
-			<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-		</a>
-	</p>
-</div>
+<h2>Languages</h2>
+<ul>
+	<li type="square">Advanced Level</li>
+	<li type="square">Medium Level</li>
+	<li type="square">Basic Level</li>
+</ul>
+<h2>Frameworks</h2>
+<h2>Objetivos</h2>
+<h2>Aprendizaje constante</h2>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 <div align="center">
 	<a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 	<a href="https://www.codewars.com/" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars" /></a>
