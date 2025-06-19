@@ -2,6 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff0000,50:ff7c00,100:ffd500&text=Jose%20Plascencia%20(Dev)&reversal=false&section=header&animation=fadeIn&fontColor=fefefe&fontSize=50&fontAlignY=91&descAlign=50"
   alt="header"/>
 </div>
+<br>
+<br>
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats</h1>
+<div align="center">
+	<a><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JosePlascencia-Dev.JosePlascencia-Dev"></a>
+</div>
+<div align="center">
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JosePlascencia-Dev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+	<br>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosePlascencia-Dev&theme=dark" alt="" />
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=JosePlascencia-Dev&show_icons=true&theme=dark&hide_border=true" alt="" />
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosePlascencia-Dev&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
 <h3 align="center">Languages</h3>
 <div align="center">
@@ -87,19 +102,6 @@
 </div>
 <h4>Perfil Universitario</h4>
 <a href="https://github.com/PlasThomas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats</h1>
-<div align="center">
-	<a><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JosePlascencia-Dev.JosePlascencia-Dev"></a>
-</div>
-<div align="center">
-	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JosePlascencia-Dev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-	<br>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosePlascencia-Dev&theme=dark" alt="" />
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=JosePlascencia-Dev&show_icons=true&theme=dark&hide_border=true" alt="" />
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosePlascencia-Dev&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
 <p align="center">
   <img src="https://github.com/JosePlascencia-Dev/JosePlascencia-Dev/blob/main/github-user-contribution.svg" alt="snake">
 </p>
