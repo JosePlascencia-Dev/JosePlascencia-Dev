@@ -10,7 +10,6 @@
 </div>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePlascencia-Dev&theme=dark&hide_border=true&layout=donut"/>
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=JosePlascencia-Dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub" />
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=JosePlascencia-Dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" />
 </div>
