@@ -87,8 +87,8 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>About me</h1>
-<p>Estudiante de ingenieria en computacion</p>
-<h4>Perfil Universitario</h4>
+<p>Computer engineering student</p>
+<h4>Tniversity Profile</h4>
 <a href="https://github.com/PlasThomas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <p align="center">
   <img src="https://github.com/JosePlascencia-Dev/JosePlascencia-Dev/blob/main/github-user-contribution.svg" alt="snake">
